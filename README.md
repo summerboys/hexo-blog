@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hexo-theme-yilia
 ================
 
@@ -213,3 +214,6 @@ aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
 ```
 
 
+=======
+# hexo-blog
+>>>>>>> b4f73186f005a2ab521b1c9bedf9acbacbbdfd8b
